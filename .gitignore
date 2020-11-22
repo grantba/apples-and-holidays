@@ -43,3 +43,11 @@ jspm_packages
 /log/*
 !/log/.keep
 /tmp
+
+#   holiday_hash.each.do |season, holiday_details_hash|
+#     if holiday_details_hash == [:christmas] || [new_years]
+#       holiday_details_hash.each do |holiday, supplies|
+#         supplies << "Balloons"
+#       end
+#     end
+#   end
